@@ -1,0 +1,12 @@
+/*<!--go to google search for fonts you want, in this
+case we are looking for god farther font
+from www.1001fonts.com-->*/
+
+@font-face{
+    src: url("Corleone.ttf");
+    font-family: "Corleone";
+}
+
+h1{
+    font-family: "Corleone";
+}
